@@ -10,15 +10,6 @@ Welcome to the official GitHub organization of **Indalc**.
 - Data Analytics & Process Optimization
 - Industrial Automation & Digital Transformation
 
-## Our Mission
-
-To harness the power of biology, engineering, and technology to produce sustainable fuels and create long-term environmental value.
-
-## Vision
-
-Building a future where renewable resources, scientific innovation, and digital technologies work together to drive sustainable growth.
-
 ---
 
-**Indalc Spirits**  
 *Advancing sustainability through biotechnology and renewable energy.*
